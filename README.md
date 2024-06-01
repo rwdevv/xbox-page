@@ -1,4 +1,4 @@
-# Xbox Smartglass Loading Screen
+# Xbox Loading Screen
 
 Simple xbox loading page made by me.
 
