@@ -2,4 +2,4 @@
 
 Simple xbox loading page made by me.
 
-![](https://raw.githubusercontent.com/rwdevv/xbox-page/screenshot.png)
+![](https://raw.githubusercontent.com/rwdevv/xbox-page/main/screenshot.png)
